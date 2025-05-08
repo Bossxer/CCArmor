@@ -1,5 +1,6 @@
 [
   { "name": "Iron", "status": "Durability: 61%" },
   { "name": "Diamond", "status": "Durability: 92%" },
-  { "name": "Netherite", "status": "Durability: 100%" }
+  { "name": "Netherite", "status": "Durability: 100%" },
+    { "name": "All the modium", "status": "Durability: 100%" }
 ]

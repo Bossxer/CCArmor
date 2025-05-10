@@ -1,5 +1,14 @@
 [
-    { "id": "gold", "name": "Gold Set", "durability": "73%" },
-    { "id": "diamond", "name": "Diamond Set", "durability": "94%" }
-  ]
-  
+  {
+    "id": "diamond",
+    "name": "Diamond Set"
+  },
+  {
+    "id": "gold",
+    "name": "Gold Set"
+  },
+  {
+    "id": "netherite",
+    "name": "Netherite Set"
+  }
+]

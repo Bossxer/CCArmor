@@ -34,53 +34,5 @@
   {
     "id": "steel",
     "name": "Steel Set"
-  },
-  {
-    "id": "amethyst",
-    "name": "Amethyst Set"
-  },
-  {
-    "id": "obsidian",
-    "name": "Obsidian Set"
-  },
-  {
-    "id": "glass",
-    "name": "Glass Set"
-  },
-  {
-    "id": "wood",
-    "name": "Wooden Set"
-  },
-  {
-    "id": "stone",
-    "name": "Stone Armor Set"
-  },
-  {
-    "id": "quartz",
-    "name": "Quartz Armor Set"
-  },
-  {
-    "id": "bronze",
-    "name": "Bronze Set"
-  },
-  {
-    "id": "refined_obsidian",
-    "name": "Refined Obsidian Set"
-  },
-  {
-    "id": "vibranium",
-    "name": "Vibranium Set"
-  },
-  {
-    "id": "unobtainium",
-    "name": "Unobtainium Set"
-  },
-  {
-    "id": "allthemodium",
-    "name": "Allthemodium Set"
-  },
-  {
-    "id": "emerald",
-    "name": "Emerald Set"
   }
 ]

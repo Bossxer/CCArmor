@@ -1,24 +1,86 @@
 [
-  { "id": "diamond", "name": "Diamond Set" },
-  { "id": "gold", "name": "Gold Set" },
-  { "id": "netherite", "name": "Netherite Set" },
-  { "id": "chainmail", "name": "Chainmail Set" },
-  { "id": "leather", "name": "Leather Set" },
-  { "id": "modium1", "name": "Allthemodium Armor" },
-  { "id": "modium2", "name": "Vibranium Armor" },
-  { "id": "modium3", "name": "Unobtainium Armor" },
-  { "id": "turtle", "name": "Turtle Armor" },
-  { "id": "bronze", "name": "Bronze Armor" },
-  { "id": "steel", "name": "Steel Armor" },
-  { "id": "osmium", "name": "Osmium Armor" },
-  { "id": "refined_obsidian", "name": "Refined Obsidian Armor" },
-  { "id": "emerald", "name": "Emerald Armor" },
-  { "id": "amethyst", "name": "Amethyst Armor" },
-  { "id": "slime", "name": "Slime Armor" },
-  { "id": "lapis", "name": "Lapis Armor" },
-  { "id": "redstone", "name": "Redstone Armor" },
-  { "id": "quartz", "name": "Quartz Armor" },
-  { "id": "glass", "name": "Glass Armor" },
-  { "id": "wood", "name": "Wood Armor" },
-  { "id": "paper", "name": "Paper Armor" }
+  {
+    "id": "diamond",
+    "name": "Diamond Set"
+  },
+  {
+    "id": "gold",
+    "name": "Gold Set"
+  },
+  {
+    "id": "netherite",
+    "name": "Netherite Set"
+  },
+  {
+    "id": "chainmail",
+    "name": "Chainmail Set"
+  },
+  {
+    "id": "copper",
+    "name": "Copper Set"
+  },
+  {
+    "id": "iron",
+    "name": "Iron Set"
+  },
+  {
+    "id": "lapislazuli",
+    "name": "Lapis Lazuli Set"
+  },
+  {
+    "id": "leather",
+    "name": "Leather Set"
+  },
+  {
+    "id": "steel",
+    "name": "Steel Set"
+  },
+  {
+    "id": "amethyst",
+    "name": "Amethyst Set"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian Set"
+  },
+  {
+    "id": "glass",
+    "name": "Glass Set"
+  },
+  {
+    "id": "wood",
+    "name": "Wooden Set"
+  },
+  {
+    "id": "stone",
+    "name": "Stone Armor Set"
+  },
+  {
+    "id": "quartz",
+    "name": "Quartz Armor Set"
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze Set"
+  },
+  {
+    "id": "refined_obsidian",
+    "name": "Refined Obsidian Set"
+  },
+  {
+    "id": "vibranium",
+    "name": "Vibranium Set"
+  },
+  {
+    "id": "unobtainium",
+    "name": "Unobtainium Set"
+  },
+  {
+    "id": "allthemodium",
+    "name": "Allthemodium Set"
+  },
+  {
+    "id": "emerald",
+    "name": "Emerald Set"
+  }
 ]

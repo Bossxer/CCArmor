@@ -1,1 +1,7 @@
-
+{
+    "name": "Copper Set",
+    "helmet": "everythingcopper:copper_helmet",
+    "chestplate": "everythingcopper:copper_chestplate",
+    "leggings": "everythingcopper:copper_leggings",
+    "boots": "everythingcopper:copper_boots"
+}

@@ -1,7 +1,7 @@
 {
     "name": "Steel Set",
-    "helmet": "railcraft:steel_helmet",
-    "chestplate": "railcraft:steel_chestplate",
-    "leggings": "railcraft:steel_leggings",
-    "boots": "railcraft:steel_boots"
+    "helmet": "mekanismtools:steel_helmet",
+    "chestplate": "mekanismtools:steel_chestplate",
+    "leggings": "mekanismtools:steel_leggings",
+    "boots": "mekanismtools:steel_boots"
   }
